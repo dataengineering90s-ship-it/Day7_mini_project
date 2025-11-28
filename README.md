@@ -1,4 +1,4 @@
-\# Mini ETL Project
+&nbsp;## Mini ETL Project
 
 
 
@@ -6,7 +6,7 @@ This project extracts data from a CSV, cleans it using pandas, and loads it into
 
 
 
-\## Requirements
+&nbsp;## Requirements
 
 pip install -r requirements.txt
 
@@ -24,7 +24,7 @@ DB\_NAME=etl\_db
 
 
 
-\## Run ETL
+&nbsp;## Run ETL
 
 python src/etl.py
 
